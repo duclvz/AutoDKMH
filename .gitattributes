@@ -1,1 +1,2 @@
 _sass/* linguist-vendored
+*.html linguist-language=Javascript
