@@ -1,0 +1,11 @@
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:type" content="{% if page.image %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:image" content="{{ page.image }}">
+<meta property="og:description" content="{{ page.description | default: site.github.project_tagline }}">
+<meta property="og:site_name" content="{% if site.name %}{{ site.name }}{% else %}{{ site.github.repository_name }}{% endif %}">
+<meta property="og:locale" content="en_US">
+{% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="https://fb.com/duclvz">
+{% endif %}
