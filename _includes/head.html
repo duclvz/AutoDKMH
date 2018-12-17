@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   {% include opengraph.html %}
-  <meta name="description" content="{{ page.description | default: site.github.project_tagline }}">
+  <meta name="description" content="{{ site.github.project_tagline }}">
   <meta property="fb:app_id" content="2281914088695434" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta name="keywords" content="{{ page.keywords }}"/>
