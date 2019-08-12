@@ -1,18 +1,16 @@
-# **Auto DKMH VNU 2019**
+# **Auto DKMH VNU**
 
-Chào các bạn, mình là người viết ra tool Auto DKMH ngày trước, thật sự là không ngờ tool viết từ hồi 2015 đến giờ mà vẫn có người fix lại và nhiều bạn biết đến sử dụng được. Vậy nên mình có check lại và fix + nâng cấp một số chức năng để giúp các bạn chôm và găm môn học nhanh hơn nữa ^^! <br/>
-
-**Update 29/11/2018: Version 1.1 - Update chức năng Auto găm môn học liên tục** <br/>
-**Tool dạng Extension các bạn cài đặt tại đây:** <https://chrome.google.com/webstore/detail/auto-dkmh-vnu/fbnkkndphognnfnaoljphdijkcpkjmoc> <br/>
+**Updated v1.3 - 12/8/2019** <br/>
+**Tool dạng Extension trình duyệt cài đặt tại đây:** <https://chrome.google.com/webstore/detail/auto-dkmh-vnu/fbnkkndphognnfnaoljphdijkcpkjmoc> <br/>
 * Hoặc các bạn có thể vào Chrome Web Store search từ khóa `Auto DKMH` là thấy.
 * Tool hỗ trợ các trình duyệt phổ biến như Chrome, Cốc Cốc, Opera, Chromium... <br/>
 
 Có gì mới?
 -------
-* Đăng ký bằng mã số của môn học (mã ẩn) giúp chọn môn học chính xác hơn. (tool cũ không còn chính xác do một số tên lớp môn học thực hành có tên giống nhau)
+* Có thể đăng ký bằng mã môn học hoặc mã số môn học (mã số cạnh ô tick chọn môn học)
 * Đăng ký hàng loạt môn học cùng lúc, đỡ phải tick từng môn gây chậm trễ dẫn đến mất slot! (Nút Đăng Ký Nhanh)
 * Tự động đăng ký môn học liên tục sau mỗi x giây (Nút Auto).
-* Xem mã số môn học, hiện dấu tick chọn môn học trước thời hạn đăng ký.
+* Xem mã số môn học, hiện ô tick chọn môn học trước thời hạn đăng ký.
 * Chọn được các môn trùng lịch, full (lớp đã full rồi thì ghi nhận được hay ko thì hên xui).
 * Thêm nút Ghi Nhận nếu server chưa cho hiện.
 * Dùng cho đăng ký môn học tất cả các ngành (cả ngành kép)

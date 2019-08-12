@@ -4,11 +4,11 @@ defaults:
       path: ""
     values:
       layout: "default"
-      title: "AutoDKMH - Tool tự động đăng ký môn học VNU 2019 v1.1"
+      title: "AutoDKMH - Tool tự động đăng ký môn học VNU v1.3"
       description: "Auto đăng ký môn học liên tục, tốc độ ánh sáng, ko lo thất học"
       url: "https://duclvz.github.io/AutoDKMH"
       image: "https://duclvz.github.io/AutoDKMH/demo.png"
-      date: "2018-12-07T17:52:59.090Z"
+      date: "2019-08-12T17:52:59.090Z"
       fblike: "316524268514389"
       fbcomment: "316524268514389"
       keywords: "auto, auto dkmh, autodkmh, tool dang ky mon hoc, tool dang ky tin chi, dhqg, dhqghn, vnu, auto dkmh vnu"
